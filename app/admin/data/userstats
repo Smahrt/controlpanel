@@ -1,0 +1,142 @@
+[
+    {
+        "firstname": "Kubiat",
+        "lastname": "Morgan",
+        "gender": "Male",
+        "location": "Cross River",
+        "date_logged_in": "02-02-2017",
+        "time_logged_in": "10:42 am",
+        "aggregator": "Link 1",
+        "access_time": "12:08 pm"
+    },
+    {
+        "firstname": "Ene",
+        "lastname": "Okon",
+        "gender": "male",
+        "location": "Akwa Ibom",
+        "date_logged_in": "03-02-2017",
+        "time_logged_in": "09:00 am",
+        "aggregator": "",
+        "access_time": ""
+    },
+    {
+        "firstname": "Kubiat",
+        "lastname": "Morgan",
+        "gender": "Male",
+        "location": "Cross River",
+        "date_logged_in": "03-02-2017",
+        "time_logged_in": "09:21 am",
+        "aggregator": "Link 1",
+        "access_time": "09:24 am"
+    },
+    {
+        "firstname": "Kubiat",
+        "lastname": "Morgan",
+        "gender": "Male",
+        "location": "Cross River",
+        "date_logged_in": "03-02-2017",
+        "time_logged_in": "09:32 am",
+        "aggregator": "",
+        "access_time": ""
+    },
+    {
+        "firstname": "Kubiat",
+        "lastname": "Morgan",
+        "gender": "Male",
+        "location": "Cross River",
+        "date_logged_in": "03-02-2017",
+        "time_logged_in": "09:33 am",
+        "aggregator": "Link 2",
+        "access_time": "09:41 am"
+    },
+    {
+        "firstname": "Kubiat",
+        "lastname": "Morgan",
+        "gender": "Male",
+        "location": "Cross River",
+        "date_logged_in": "03-02-2017",
+        "time_logged_in": "09:41 am",
+        "aggregator": "",
+        "access_time": ""
+    },
+    {
+        "firstname": "Kubiat",
+        "lastname": "Morgan",
+        "gender": "Male",
+        "location": "Cross River",
+        "date_logged_in": "03-02-2017",
+        "time_logged_in": "09:45 am",
+        "aggregator": "Link 3",
+        "access_time": "09:47 am"
+    },
+    {
+        "firstname": "Kubiat",
+        "lastname": "Morgan",
+        "gender": "Male",
+        "location": "Cross River",
+        "date_logged_in": "03-02-2017",
+        "time_logged_in": "09:46 am",
+        "aggregator": "Link 1",
+        "access_time": "09:47 am"
+    },
+    {
+        "firstname": "Ene",
+        "lastname": "Okon",
+        "gender": "male",
+        "location": "Akwa Ibom",
+        "date_logged_in": "03-02-2017",
+        "time_logged_in": "10:01 am",
+        "aggregator": "",
+        "access_time": ""
+    },
+    {
+        "firstname": "Ene",
+        "lastname": "Okon",
+        "gender": "male",
+        "location": "Akwa Ibom",
+        "date_logged_in": "03-02-2017",
+        "time_logged_in": "10:15 am",
+        "aggregator": "",
+        "access_time": ""
+    },
+    {
+        "firstname": "Kubiat",
+        "lastname": "Morgan",
+        "gender": "Male",
+        "location": "Cross River",
+        "date_logged_in": "03-02-2017",
+        "time_logged_in": "10:19 am",
+        "aggregator": "",
+        "access_time": ""
+    },
+    {
+        "firstname": "Ene",
+        "lastname": "Okon",
+        "gender": "male",
+        "location": "Akwa Ibom",
+        "date_logged_in": "03-02-2017",
+        "time_logged_in": "10:20 am",
+        "aggregator": "Link 1",
+        "access_time": "10:42 am"
+    },
+    {
+        "firstname": "Ene",
+        "lastname": "Okon",
+        "gender": "male",
+        "location": "Akwa Ibom",
+        "date_logged_in": "03-02-2017",
+        "time_logged_in": "08:28 pm",
+        "aggregator": "",
+        "access_time": ""
+    },
+    {
+        "firstname": "Ene",
+        "lastname": "Okon",
+        "gender": "male",
+        "location": "Akwa Ibom",
+        "date_logged_in": "04-02-2017",
+        "time_logged_in": "07:19 am",
+        "aggregator": "",
+        "access_time": ""
+    }
+]

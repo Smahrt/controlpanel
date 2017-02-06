@@ -1,0 +1,242 @@
+[
+    {
+        "firstname": "Kubiat",
+        "lastname": "Morgan",
+        "gender": "Male",
+        "location": "Akwa Ibom",
+        "date_logged_in": "02-02-2017",
+        "time_logged_in": "10:42 am",
+        "aggregator": "Link 1",
+        "access_time": "12:08 pm"
+    },
+    {
+        "firstname": "Ene",
+        "lastname": "Okon",
+        "gender": "Male",
+        "location": "Abuja FCT",
+        "date_logged_in": "03-02-2017",
+        "time_logged_in": "09:00 am",
+        "aggregator": "",
+        "access_time": ""
+    },
+    {
+        "firstname": "Kubiat",
+        "lastname": "Morgan",
+        "gender": "Male",
+        "location": "Akwa Ibom",
+        "date_logged_in": "03-02-2017",
+        "time_logged_in": "09:21 am",
+        "aggregator": "Link 1",
+        "access_time": "09:24 am"
+    },
+    {
+        "firstname": "Kubiat",
+        "lastname": "Morgan",
+        "gender": "Male",
+        "location": "Akwa Ibom",
+        "date_logged_in": "03-02-2017",
+        "time_logged_in": "09:32 am",
+        "aggregator": "",
+        "access_time": ""
+    },
+    {
+        "firstname": "Kubiat",
+        "lastname": "Morgan",
+        "gender": "Male",
+        "location": "Akwa Ibom",
+        "date_logged_in": "03-02-2017",
+        "time_logged_in": "09:33 am",
+        "aggregator": "Link 2",
+        "access_time": "09:41 am"
+    },
+    {
+        "firstname": "Kubiat",
+        "lastname": "Morgan",
+        "gender": "Male",
+        "location": "Akwa Ibom",
+        "date_logged_in": "03-02-2017",
+        "time_logged_in": "09:41 am",
+        "aggregator": "",
+        "access_time": ""
+    },
+    {
+        "firstname": "Kubiat",
+        "lastname": "Morgan",
+        "gender": "Male",
+        "location": "Akwa Ibom",
+        "date_logged_in": "03-02-2017",
+        "time_logged_in": "09:45 am",
+        "aggregator": "Link 3",
+        "access_time": "09:47 am"
+    },
+    {
+        "firstname": "Kubiat",
+        "lastname": "Morgan",
+        "gender": "Male",
+        "location": "Akwa Ibom",
+        "date_logged_in": "03-02-2017",
+        "time_logged_in": "09:46 am",
+        "aggregator": "Link 1",
+        "access_time": "09:47 am"
+    },
+    {
+        "firstname": "Ene",
+        "lastname": "Okon",
+        "gender": "Male",
+        "location": "Abuja FCT",
+        "date_logged_in": "03-02-2017",
+        "time_logged_in": "10:01 am",
+        "aggregator": "",
+        "access_time": ""
+    },
+    {
+        "firstname": "Ene",
+        "lastname": "Okon",
+        "gender": "Male",
+        "location": "Abuja FCT",
+        "date_logged_in": "03-02-2017",
+        "time_logged_in": "10:15 am",
+        "aggregator": "",
+        "access_time": ""
+    },
+    {
+        "firstname": "Kubiat",
+        "lastname": "Morgan",
+        "gender": "Male",
+        "location": "Akwa Ibom",
+        "date_logged_in": "03-02-2017",
+        "time_logged_in": "10:19 am",
+        "aggregator": "",
+        "access_time": ""
+    },
+    {
+        "firstname": "Ene",
+        "lastname": "Okon",
+        "gender": "Male",
+        "location": "Abuja FCT",
+        "date_logged_in": "03-02-2017",
+        "time_logged_in": "10:20 am",
+        "aggregator": "Link 1",
+        "access_time": "10:42 am"
+    },
+    {
+        "firstname": "Ene",
+        "lastname": "Okon",
+        "gender": "Male",
+        "location": "Abuja FCT",
+        "date_logged_in": "03-02-2017",
+        "time_logged_in": "08:28 pm",
+        "aggregator": "",
+        "access_time": ""
+    },
+    {
+        "firstname": "Ene",
+        "lastname": "Okon",
+        "gender": "Male",
+        "location": "Abuja FCT",
+        "date_logged_in": "04-02-2017",
+        "time_logged_in": "07:19 am",
+        "aggregator": "",
+        "access_time": ""
+    },
+    {
+        "firstname": "Ene",
+        "lastname": "Okon",
+        "gender": "Male",
+        "location": "Abuja FCT",
+        "date_logged_in": "04-02-2017",
+        "time_logged_in": "08:47 am",
+        "aggregator": "",
+        "access_time": "08:48 am"
+    },
+    {
+        "firstname": "Ene",
+        "lastname": "Okon",
+        "gender": "Male",
+        "location": "Abuja FCT",
+        "date_logged_in": "04-02-2017",
+        "time_logged_in": "11:22 am",
+        "aggregator": "Link 3",
+        "access_time": "11:22 am"
+    },
+    {
+        "firstname": "Ene",
+        "lastname": "Okon",
+        "gender": "Male",
+        "location": "Abuja FCT",
+        "date_logged_in": "04-02-2017",
+        "time_logged_in": "06:17 pm",
+        "aggregator": "Link 1",
+        "access_time": "01:32 am"
+    },
+    {
+        "firstname": "Ene",
+        "lastname": "Okon",
+        "gender": "Male",
+        "location": "Abuja FCT",
+        "date_logged_in": "05-02-2017",
+        "time_logged_in": "06:18 pm",
+        "aggregator": "",
+        "access_time": ""
+    },
+    {
+        "firstname": "Ene",
+        "lastname": "Okon",
+        "gender": "Male",
+        "location": "Abuja FCT",
+        "date_logged_in": "05-02-2017",
+        "time_logged_in": "07:04 pm",
+        "aggregator": "",
+        "access_time": "10:38 pm"
+    },
+    {
+        "firstname": "Ene",
+        "lastname": "Okon",
+        "gender": "Male",
+        "location": "Abuja FCT",
+        "date_logged_in": "05-02-2017",
+        "time_logged_in": "10:39 pm",
+        "aggregator": "Link 1",
+        "access_time": "10:51 pm"
+    },
+    {
+        "firstname": "Kubiat",
+        "lastname": "Morgan",
+        "gender": "Male",
+        "location": "Akwa Ibom",
+        "date_logged_in": "06-02-2017",
+        "time_logged_in": "01:25 am",
+        "aggregator": "Link 1",
+        "access_time": "02:01 am"
+    },
+    {
+        "firstname": "Kubiat",
+        "lastname": "Morgan",
+        "gender": "Male",
+        "location": "Akwa Ibom",
+        "date_logged_in": "06-02-2017",
+        "time_logged_in": "09:07 am",
+        "aggregator": "Link 2",
+        "access_time": "10:45 am"
+    },
+    {
+        "firstname": "Ene",
+        "lastname": "Okon",
+        "gender": "Male",
+        "location": "Abuja FCT",
+        "date_logged_in": "06-02-2017",
+        "time_logged_in": "09:44 am",
+        "aggregator": "Link y",
+        "access_time": "09:56 am"
+    },
+    {
+        "firstname": "Ene",
+        "lastname": "Okon",
+        "gender": "Male",
+        "location": "Abuja FCT",
+        "date_logged_in": "06-02-2017",
+        "time_logged_in": "10:45 am",
+        "aggregator": "",
+        "access_time": ""
+    }
+]
