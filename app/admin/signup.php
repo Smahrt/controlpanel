@@ -122,6 +122,7 @@ include ('../config/config.php'); //including the file externally
                                     <div class="alert alert-success" role="alert">
                                         <?php echo $success; ?>
                                     </div>
+                                    <?php $firstname=""; $lastname=""; $username=""; $location=""; $password=""; $password2=""; $gender=""; $role=""; ?>
                             <?php endif; ?>
                             
 							<form id="create_user" class="form form-validate" action="signup.php"  method="post" novalidate="novalidate">

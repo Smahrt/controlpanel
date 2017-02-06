@@ -1,9 +1,14 @@
 <?php
      session_start();
     include('session.php');
+    include('config/control.php');
 
     $sqle = "SELECT * FROM aggregators";
     $resulte = $dbh->query($sqle);
+
+    if($user_log['role'] == "Admin"){
+        header("Location: admin/profile.php");
+    }
 ?>
 
 <!DOCTYPE html>

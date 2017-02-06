@@ -43,7 +43,8 @@
              if(response != ""){
                  $('body').prepend("<div class='alert-success alert' role='alert'>Redirecting to "+response+"</div>");
                  setTimeout(function(){
-                     window.location = response;
+                     window.location = "http://"+response;
+                     
                  }, 1000);
              }else{
                  $('body').append("<div class='alert-error alert' role='alert'>Error logging user data. Please contact your Administrator."+response+"</div>");
@@ -74,19 +75,19 @@
             "url" : "userstats",
             dataSrc : ''
         },
-			"colVis": {
-				"buttonText": "Columns",
-				"overlayFade": 0,
-				"align": "right"
-			},
-			"language": {
-				"lengthMenu": '_MENU_ entries per page',
-				"search": '<i class="fa fa-search"></i>',
-				"paginate": {
-					"previous": '<i class="fa fa-angle-left"></i>',
-					"next": '<i class="fa fa-angle-right"></i>'
-				}
-            },
+        "colVis": {
+            "buttonText": "Columns",
+            "overlayFade": 0,
+            "align": "right"
+        },
+        "language": {
+            "lengthMenu": '_MENU_ entries per page',
+            "search": '<i class="fa fa-search"></i>',
+            "paginate": {
+                "previous": '<i class="fa fa-angle-left"></i>',
+                "next": '<i class="fa fa-angle-right"></i>'
+            }
+        },
         "columns" : [
             {"data": "firstname"},
             {"data": "lastname"},

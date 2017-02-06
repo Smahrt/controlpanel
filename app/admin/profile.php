@@ -2,6 +2,11 @@
     session_start();
     include('../config/config.php');
     include('../session.php');
+    include('../config/control.php');
+        
+        if($user_log['role'] != "Admin"){
+            header("Location: ../profile.php");
+        }
 
    	    $sql = "SELECT firstname, lastname, gender, location, date_logged_in, time_logged_in, aggregator, access_time
         FROM users INNER JOIN users_stats 
@@ -20,7 +25,7 @@
 
       try{          
           while ($user_data_array = $result->fetch(PDO::FETCH_ASSOC)) {
-                   $userdata[] = $user_data_array;
+               $userdata[] = $user_data_array;
           }
            
            $jsondata = json_encode($userdata, JSON_PRETTY_PRINT);

@@ -12,12 +12,7 @@
     $login_session = $user_log['username'];
     $role = $user_log['role'];
     if(!isset($user_check)){
-        //$dbh=null;
-       //header('location:index.php');
+        header('location:index.php');
     }
 
-    function tables(){
-        echo"helo";
-    }
-    
 ?>
