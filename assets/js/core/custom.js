@@ -35,17 +35,27 @@
          
          if ($page_role > 0){
              $bounce_page = '../bounce.php';
+             $kick_page = '../kick_user.php';
          }else{
              $bounce_page = 'bounce.php';
+             $kick_page = 'kick_user.php';
          }
          
          $.post($bounce_page, 'linkid=' + $linkid, function (response) {
              if(response != ""){
                  $('body').prepend("<div class='alert-success alert' role='alert'>Redirecting to "+response+"</div>");
                  setTimeout(function(){
-                     window.location = "http://"+response;
+                     $megaIP = response;
                      
-                 }, 1000);
+                     $.post($kick_page, 'megaIP='+$megaIP, function(ret){
+                        if(ret != ""){
+                            window.location = "http://"+ret;
+                        }else{
+                            alert("Mega Error");
+                        }
+                     });
+                     
+                 }, 700);
              }else{
                  $('body').append("<div class='alert-error alert' role='alert'>Error logging user data. Please contact your Administrator."+response+"</div>");
              }

@@ -1,5 +1,5 @@
 <?php
-    $exAfter = 23 * 60;
+    $exAfter = 30 * 60;
 
     if(isset($_SESSION['last_action'])){
         $inactive = time() - $_SESSION['last_action'];
